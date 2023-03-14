@@ -1,2 +1,2 @@
 # star-counter
-This is one small step for counter apps, one... giant leap for Tim
+This app is one small step for javascript, one... giant leap for Timkind.
